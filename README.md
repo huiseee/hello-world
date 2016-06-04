@@ -3,4 +3,4 @@ learing using Github
 
 Hi, Humans！
 It's a readme file. Read Read Read me!!!
-Hi, friends!
+Good Try!
